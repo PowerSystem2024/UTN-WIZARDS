@@ -1,10 +1,10 @@
-# UTN-WIZARDS ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) ![witch](https://cdn.pixabay.com/photo/2018/10/08/11/17/magic-3739398_960_720.png)
+# UTN-WIZARDS ✨🧙‍♂️🧙‍♀️
 
-## Repositorio del Equipo UTN Wizards 📚
+## ¡Bienvenidos al Repositorio de los UTN Wizards! 📚
 
-¡Bienvenidos al repositorio de **UTN Wizards**! Somos un grupo de estudiantes de la Tecnicatura en Programación en la Universidad Tecnológica Nacional. Este repositorio alberga nuestros proyectos y prácticas del semestre.
+¡Saludos desde el reino de la **UTN Wizards**! Somos un grupo de estudiantes apasionados por la programación de la Universidad Tecnológica Nacional. Este repositorio es nuestro grimorio digital, donde guardamos y compartimos nuestros hechizos de código, encantamientos de software y proyectos mágicos del semestre.
 
-## ![utn_icon](https://cdn.pixabay.com/photo/2015/09/18/19/03/utn-944171_960_720.png)
+## ![utn_icon](https://cdn.pixabay.com/photo/2017/10/22/12/54/university-2877860_960_720.png)
 
 **Universidad Tecnológica Nacional**
 
@@ -12,29 +12,41 @@
 
 **Programación II**
 
-## Integrantes 👨‍💻👩‍💻
+## Nuestros Magos y Magas ✨
 
-- **Víctor Alejandro Aguilar** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 10982
-- **Florencia Irupe Alonso** ![witch](https://cdn.pixabay.com/photo/2018/10/08/11/17/magic-3739398_960_720.png) - 10989
-- **Franco Bosio** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11014
-- **Axel Choque** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 9298
-- **José Cueva Arévalo** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11047
-- **Franco De Los Santos Cardozo** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11049
-- **Emiliano Di Pietro** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11054
-- **Rocío Gomila** ![witch](https://cdn.pixabay.com/photo/2018/10/08/11/17/magic-3739398_960_720.png) - 10534
-- **Alejandro Lambrese** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11119
-- **Gustavo Marcelo Rodríguez González** ![wizard](https://cdn.pixabay.com/photo/2017/08/30/01/28/mage-2693265_960_720.png) - 11218
-- **Brisa Ayelén Ulloa Pinilla** ![witch](https://cdn.pixabay.com/photo/2018/10/08/11/17/magic-3739398_960_720.png) - 11265
+- **Víctor Alejandro Aguilar** ![wizard](https://www.artstation.com/artwork/1nEBK) - 10982
+- **Florencia Irupe Alonso** ![witch](https://www.artstation.com/artwork/9mKwz) - 10989
+- **Franco Bosio** ![wizard](https://www.artstation.com/artwork/N5YxE) - 11014
+- **Axel Choque** ![wizard](https://www.artstation.com/artwork/4b6oR) - 9298
+- **José Cueva Arévalo** ![wizard](https://www.artstation.com/artwork/Z5J64) - 11047
+- **Franco De Los Santos Cardozo** ![wizard](https://www.artstation.com/artwork/mD92O) - 11049
+- **Emiliano Di Pietro** ![wizard](https://www.artstation.com/artwork/g2Rz6) - 11054
+- **Rocío Gomila** ![witch](https://www.artstation.com/artwork/YvA1g) - 10534
+- **Alejandro Lambrese** ![wizard](https://www.artstation.com/artwork/1nE3v) - 11119
+- **Gustavo Marcelo Rodríguez González** ![wizard](https://www.artstation.com/artwork/3od62) - 11218
+- **Brisa Ayelén Ulloa Pinilla** ![witch](https://www.artstation.com/artwork/d0n9m) - 11265
 
 ## ¿Quiénes Somos?
 
-### ¡Hola y Bienvenidos! 👋
+### ¡Hola y Bienvenidos a Nuestro Repositorio Mágico! 👋
 
-Somos **UTN Wizards**, un grupo de estudiantes de la Universidad Tecnológica Nacional. Nuestra pasión por el aprendizaje, la programación y la tecnología nos impulsa a explorar y desarrollar proyectos emocionantes. 
+Somos **UTN Wizards**, un grupo de magos y magas en formación en la Universidad Tecnológica Nacional. Nuestra magia se manifiesta a través de la programación y el desarrollo de software, y este repositorio es donde conjuramos nuestros proyectos y soluciones.
 
-A través de este repositorio en GitHub, compartimos nuestras creaciones, soluciones y el conocimiento adquirido. Aquí podrás descubrir cómo aplicamos nuestras habilidades y nos enfrentamos a nuevos desafíos.
+A través de este espacio en GitHub, compartimos nuestras aventuras tecnológicas y descubrimientos. Aquí podrás ver cómo transformamos nuestros conocimientos en soluciones innovadoras y creativas.
 
-¡Te invitamos a explorar nuestro trabajo y ser parte de nuestra aventura de aprendizaje y desarrollo progresivo!
+¡Te invitamos a explorar nuestro trabajo y ser parte de esta fascinante jornada de aprendizaje y desarrollo!
+
+## Proyectos
+
+Aquí encontrarás una colección de nuestros hechizos más poderosos, cada uno con su propia documentación y propósito. Nos dedicamos a crear soluciones ingeniosas que reflejen nuestro crecimiento y habilidades.
+
+¡Gracias por visitar nuestro repositorio y acompañarnos en esta mágica aventura!
+
+---
+
+**Nota:** Las imágenes utilizadas son ilustraciones fantásticas de ArtStation. Los enlaces deben ser reemplazados por imágenes propias si es necesario.
+
+
 
 ## Proyectos
 
