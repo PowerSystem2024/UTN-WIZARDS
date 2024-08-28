@@ -16,6 +16,7 @@
 - **Florencia Irupe Alonso** 🧙‍♀️ - 10989
 - **Franco Bosio** 🧙‍♂️ - 11014
 - **Axel Choque** 🧙‍♂️ - 9298
+- **José Cueva Arévalo** 🧙‍♂️ - 11047
 - **Franco De Los Santos Cardozo** 🧙‍♂️ - 11049
 - **Emiliano Di Pietro** 🧙‍♂️ - 11054
 - **Rocío Gomila** 🧙‍♀️ - 10534
@@ -27,22 +28,32 @@
 
 ### ¡Hola y Bienvenidos a Nuestro Grimorio Digital! 👋
 
-Somos **UTN Wizards**, un grupo de magos y magas en formación en la Universidad Tecnológica Nacional. En nuestra búsqueda de sabiduría y habilidades, transformamos nuestra pasión por la programación en hechizos de software y encantamientos tecnológicos. 
+Somos **UTN Wizards**, un grupo de magos y magas en formación en la Universidad Tecnológica Nacional. Nuestra historia comenzó con una misión épica: crear un sistema de biblioteca imbuido con la antigua sabiduría del Código Decimal Japonés de Clasificación de Libros. 
 
-A través de este repositorio en GitHub, compartimos nuestros hechizos más poderosos: proyectos innovadores y soluciones mágicas que reflejan nuestro crecimiento y conocimientos. Aquí podrás ver cómo convertimos desafíos en oportunidades y cómo nuestros conocimientos se transforman en soluciones ingeniosas.
+Forjado con más de 5000 líneas de código en el reverenciado lenguaje de Pseint, nuestro sistema se convirtió en un faro de conocimiento, organizando tomos de información con la precisión y elegancia de un hechizo magistral. Cada uno de nosotros aportó talentos únicos, entrelazando lógica, diseño y creatividad en un lazo inquebrantable de trabajo en equipo e innovación. 
 
-¡Te invitamos a explorar nuestro grimorio digital y a ser parte de esta emocionante aventura mágica de aprendizaje y desarrollo!
+**Víctor Alejandro, Florencia, Franco B, Axel, Franco C, Emiliano, Rocío, Alejandro, Brisa y Gustavo** — nombres que resonarán a través de los tiempos — unieron sus fuerzas para superar errores y fallos, asegurando que nuestra creación se mantuviera firme como un testamento de dedicación y habilidad. No fue solo un proyecto, sino una odisea, donde cada línea de código fue un paso hacia el dominio del reino digital y cada función un hechizo en el gran ritual de la programación.
 
-## Proyectos
+Nuestro sistema de biblioteca se convirtió en una entidad viva, una fortaleza de conocimiento protegida por nuestra magia combinada, construida para servir a todos los que buscan la sabiduría oculta en las infinitas páginas de los libros.
 
-Descubre nuestros proyectos y prácticas, cada uno con su propio propósito mágico y documentación detallada. Cada hechizo está diseñado para desafiar lo convencional y revelar nuevas formas de aplicar nuestro conocimiento.
+Ahora, los UTN Wizards están listos para revelar su creación al mundo, sabiendo que nuestra saga inspirará a futuras generaciones de forjadores de código a levantarse, aprender y crear nuevos mundos propios.
+
+## Proyectos 🔮✨
+
+### Sistema de Biblioteca - Un Hechizo de Organización y Magia 📚✨
+
+En nuestro primer gran hechizo, creamos un sistema de biblioteca que combina la magia del Código Decimal Japonés con funcionalidades modernas para la gestión de libros y usuarios. Este sistema, desarrollado en Pseint, es una obra maestra de organización que incluye:
+
+- **Gestión de Usuarios**: Permite el alta, baja y modificación de usuarios con facilidad, asegurando que cada hechizo de consulta y préstamo sea preciso y eficiente.
+- **Gestión de Categorías y Libros**: Facilita la creación, modificación y eliminación de categorías de libros, así como la adición y eliminación de tomos en la biblioteca.
+- **Búsqueda y Consulta**: Implementa funciones avanzadas para la búsqueda de libros por título, autor o categoría, ofreciendo una experiencia mágica de descubrimiento de información.
+- **Préstamos y Devoluciones**: Gestiona el préstamo y la devolución de libros, manteniendo un registro detallado de cada transacción para evitar que los libros desaparezcan en el vacío de la magia.
+
+Cada uno de estos componentes ha sido cuidadosamente diseñado para proporcionar una experiencia de usuario fluida y una administración eficiente, demostrando el poder de la programación y la magia combinados. 
+
+Este sistema de biblioteca no es solo un proyecto, sino un testimonio de nuestro compromiso con el arte arcano de la programación, y un ejemplo de cómo la magia y la tecnología pueden unirse para crear soluciones elegantes y efectivas.
 
 ¡Gracias por visitar nuestro repositorio y por unirte a nuestra aventura mágica en el mundo de la programación!
 
 
-## Proyectos
-
-Aquí encontrarás nuestros proyectos y prácticas, cada uno con su propia documentación y propósito. Nos esforzamos por crear soluciones creativas y efectivas que reflejen nuestro crecimiento y conocimientos.
-
-¡Gracias por visitar nuestro repositorio y ser parte de nuestra comunidad!
 
