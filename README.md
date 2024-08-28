@@ -1,12 +1,10 @@
 # UTN-WIZARDS ✨🧙‍♂️🧙‍♀️
 
-## ¡Bienvenidos al Repositorio de los UTN Wizards! 📚
+## ¡Bienvenidos al Repositorio de UTN Wizards! 📚
 
-¡Saludos desde el reino de la **UTN Wizards**! Somos un grupo de estudiantes apasionados por la programación de la Universidad Tecnológica Nacional. Este repositorio es nuestro grimorio digital, donde guardamos y compartimos nuestros hechizos de código, encantamientos de software y proyectos mágicos del semestre.
+¡Saludos desde el reino de los **UTN Wizards**! Somos un grupo de estudiantes de la Tecnicatura en Programación en la Universidad Tecnológica Nacional. Este repositorio es nuestro libro de hechizos, donde compartimos nuestros encantamientos de código y proyectos mágicos del semestre.
 
-## ![utn_icon](https://cdn.pixabay.com/photo/2017/10/22/12/54/university-2877860_960_720.png)
-
-**Universidad Tecnológica Nacional**
+## **Universidad Tecnológica Nacional** 🎓
 
 ## Cátedra 📖
 
@@ -14,38 +12,33 @@
 
 ## Nuestros Magos y Magas ✨
 
-- **Víctor Alejandro Aguilar** ![wizard](https://www.artstation.com/artwork/1nEBK) - 10982
-- **Florencia Irupe Alonso** ![witch](https://www.artstation.com/artwork/9mKwz) - 10989
-- **Franco Bosio** ![wizard](https://www.artstation.com/artwork/N5YxE) - 11014
-- **Axel Choque** ![wizard](https://www.artstation.com/artwork/4b6oR) - 9298
-- **José Cueva Arévalo** ![wizard](https://www.artstation.com/artwork/Z5J64) - 11047
-- **Franco De Los Santos Cardozo** ![wizard](https://www.artstation.com/artwork/mD92O) - 11049
-- **Emiliano Di Pietro** ![wizard](https://www.artstation.com/artwork/g2Rz6) - 11054
-- **Rocío Gomila** ![witch](https://www.artstation.com/artwork/YvA1g) - 10534
-- **Alejandro Lambrese** ![wizard](https://www.artstation.com/artwork/1nE3v) - 11119
-- **Gustavo Marcelo Rodríguez González** ![wizard](https://www.artstation.com/artwork/3od62) - 11218
-- **Brisa Ayelén Ulloa Pinilla** ![witch](https://www.artstation.com/artwork/d0n9m) - 11265
+- **Víctor Alejandro Aguilar** 🧙‍♂️ - 10982
+- **Florencia Irupe Alonso** 🧙‍♀️ - 10989
+- **Franco Bosio** 🧙‍♂️ - 11014
+- **Axel Choque** 🧙‍♂️ - 9298
+- **José Cueva Arévalo** 🧙‍♂️ - 11047
+- **Franco De Los Santos Cardozo** 🧙‍♂️ - 11049
+- **Emiliano Di Pietro** 🧙‍♂️ - 11054
+- **Rocío Gomila** 🧙‍♀️ - 10534
+- **Alejandro Lambrese** 🧙‍♂️ - 11119
+- **Gustavo Marcelo Rodríguez González** 🧙‍♂️ - 11218
+- **Brisa Ayelén Ulloa Pinilla** 🧙‍♀️ - 11265
 
 ## ¿Quiénes Somos?
 
-### ¡Hola y Bienvenidos a Nuestro Repositorio Mágico! 👋
+### ¡Hola y Bienvenidos a Nuestro Grimorio Digital! 👋
 
-Somos **UTN Wizards**, un grupo de magos y magas en formación en la Universidad Tecnológica Nacional. Nuestra magia se manifiesta a través de la programación y el desarrollo de software, y este repositorio es donde conjuramos nuestros proyectos y soluciones.
+Somos **UTN Wizards**, un grupo de magos y magas en formación en la Universidad Tecnológica Nacional. En nuestra búsqueda de sabiduría y habilidades, transformamos nuestra pasión por la programación en hechizos de software y encantamientos tecnológicos. 
 
-A través de este espacio en GitHub, compartimos nuestras aventuras tecnológicas y descubrimientos. Aquí podrás ver cómo transformamos nuestros conocimientos en soluciones innovadoras y creativas.
+A través de este repositorio en GitHub, compartimos nuestros hechizos más poderosos: proyectos innovadores y soluciones mágicas que reflejan nuestro crecimiento y conocimientos. Aquí podrás ver cómo convertimos desafíos en oportunidades y cómo nuestros conocimientos se transforman en soluciones ingeniosas.
 
-¡Te invitamos a explorar nuestro trabajo y ser parte de esta fascinante jornada de aprendizaje y desarrollo!
+¡Te invitamos a explorar nuestro grimorio digital y a ser parte de esta emocionante aventura mágica de aprendizaje y desarrollo!
 
 ## Proyectos
 
-Aquí encontrarás una colección de nuestros hechizos más poderosos, cada uno con su propia documentación y propósito. Nos dedicamos a crear soluciones ingeniosas que reflejen nuestro crecimiento y habilidades.
+Descubre nuestros proyectos y prácticas, cada uno con su propio propósito mágico y documentación detallada. Cada hechizo está diseñado para desafiar lo convencional y revelar nuevas formas de aplicar nuestro conocimiento.
 
-¡Gracias por visitar nuestro repositorio y acompañarnos en esta mágica aventura!
-
----
-
-**Nota:** Las imágenes utilizadas son ilustraciones fantásticas de ArtStation. Los enlaces deben ser reemplazados por imágenes propias si es necesario.
-
+¡Gracias por visitar nuestro repositorio y por unirte a nuestra aventura mágica en el mundo de la programación!
 
 
 ## Proyectos
@@ -53,3 +46,4 @@ Aquí encontrarás una colección de nuestros hechizos más poderosos, cada uno 
 Aquí encontrarás nuestros proyectos y prácticas, cada uno con su propia documentación y propósito. Nos esforzamos por crear soluciones creativas y efectivas que reflejen nuestro crecimiento y conocimientos.
 
 ¡Gracias por visitar nuestro repositorio y ser parte de nuestra comunidad!
+
