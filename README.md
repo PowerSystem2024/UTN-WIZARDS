@@ -16,7 +16,6 @@
 - **Florencia Irupe Alonso** 🧙‍♀️ - 10989
 - **Franco Bosio** 🧙‍♂️ - 11014
 - **Axel Choque** 🧙‍♂️ - 9298
-- **José Cueva Arévalo** 🧙‍♂️ - 11047
 - **Franco De Los Santos Cardozo** 🧙‍♂️ - 11049
 - **Emiliano Di Pietro** 🧙‍♂️ - 11054
 - **Rocío Gomila** 🧙‍♀️ - 10534
