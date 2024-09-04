@@ -1,28 +1,23 @@
 # UTN-WIZARDS ✨🧙‍♂️🧙‍♀️
 
+## **Universidad Tecnológica Nacional** 🎓
+
 ## ¡Bienvenidos al Repositorio de UTN Wizards! 📚
 
 ¡Saludos desde el reino de los **UTN Wizards**! Somos un grupo de estudiantes de la Tecnicatura en Programación en la Universidad Tecnológica Nacional. Este repositorio es nuestro libro de hechizos, donde compartimos nuestros encantamientos de código y proyectos mágicos del semestre.
 
-## **Universidad Tecnológica Nacional** 🎓
-
-## Cátedra 📖
-
-**Programación II**
-
 ## Nuestros Magos y Magas ✨
 
-- **Víctor Alejandro Aguilar** 🧙‍♂️ - 10982
-- **Florencia Irupe Alonso** 🧙‍♀️ - 10989
-- **Franco Bosio** 🧙‍♂️ - 11014
-- **Axel Choque** 🧙‍♂️ - 9298
-- **José Cueva Arévalo** 🧙‍♂️ - 11047
-- **Franco De Los Santos Cardozo** 🧙‍♂️ - 11049
-- **Emiliano Di Pietro** 🧙‍♂️ - 11054
-- **Rocío Gomila** 🧙‍♀️ - 10534
-- **Alejandro Lambrese** 🧙‍♂️ - 11119
-- **Gustavo Marcelo Rodríguez González** 🧙‍♂️ - 11218
-- **Brisa Ayelén Ulloa Pinilla** 🧙‍♀️ - 11265
+- **Aguilar, Víctor Alejandro** 🧙‍♂️ - 10982
+- **Alonso, Florencia Irupe** 🧙‍♀️ - 10989
+- **Bosio, Franco** 🧙‍♂️ - 11014
+- **Choque, Axel** 🧙‍♂️ - 9298
+- **De Los Santos Cardozo, Franco** 🧙‍♂️ - 11049
+- **Di Pietro, Emiliano** 🧙‍♂️ - 11054
+- **Gomila, Rocío** 🧙‍♀️ - 10534
+- **Lambrese, Alejandro** 🧙‍♂️ - 11119
+- **Rodríguez González, Gustavo Marcelo** 🧙‍♂️ - 11218
+- **Ulloa Pinilla, Brisa Ayelén** 🧙‍♀️ - 11265
 
 ## ¿Quiénes Somos?
 
