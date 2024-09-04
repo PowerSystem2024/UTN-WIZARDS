@@ -1,4 +1,4 @@
-# **Universidad Tecnológica Nacional** 🎓
+# **Universidad Tecnológica Nacional**
 
 # UTN-WIZARDS ✨🧙‍♂️🧙‍♀️ 
 
