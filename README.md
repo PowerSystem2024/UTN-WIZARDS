@@ -1,6 +1,6 @@
-# UTN-WIZARDS ✨🧙‍♂️🧙‍♀️
+# **Universidad Tecnológica Nacional** 🎓
 
-## **Universidad Tecnológica Nacional** 🎓
+# UTN-WIZARDS ✨🧙‍♂️🧙‍♀️ 
 
 ## ¡Bienvenidos al Repositorio de UTN Wizards! 📚
 
