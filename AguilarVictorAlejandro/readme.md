@@ -1,6 +1,6 @@
 # ⚠️ ADVERTENCIA ⚠️
 
-**Soy [Tu Nombre], alumno con legajo [123456].** Este espacio es mío y solo mío. Si te atreves a tocar algo aquí, prepárate para las consecuencias... 🕵️‍♂️
+**Soy Victor Alejandro Aguilar, alumno con legajo 10982.** Este espacio es mío y solo mío. Si te atreves a tocar algo aquí, prepárate para las consecuencias... 🕵️‍♂️
 
 ### ¿Qué pasa si te atreves a modificar mis archivos?
 1. **El código se corromperá y no podrás salvarlo.** 💀
