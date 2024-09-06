@@ -23,11 +23,15 @@ modificarGenenro(genero: String)
 modificarOcupacion(ocupacion: String)
 */
 public class Persona {
-    public static void main(String[] args) {
-        //Stributos de Clase (Caracteristicas)
-        /*
-        String nombre;
-        String apellido;
-        */
+    //Atributos de clase (Caracteristicas)
+    String nombre;
+    String apellido;
+    
+    //Clase 4
+    //Es nuestra plantilla
+    //Métodos de la clase (Acciones)
+    public void obtenerInformacion(){
+        System.out.println("Nombre: "+nombre);
+        System.out.println("Apellido: "+apellido);
     }
 }
