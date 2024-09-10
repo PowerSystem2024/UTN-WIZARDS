@@ -63,24 +63,29 @@ body {
   color: var(--color-text);
   background: var(--color-background);
   transition:
-    color 0.5s,
-    background-color 0.5s;
-  line-height: 1.6;
+    color 0.5s,/* Transición suave de 0.5s para el color del texto*/
+    background-color 0.5s; /*Transicion suave de 0.5s apra el color de fondo*/
+  line-height: 1.6; /*Establece el espacio entre líneas del texto*/
   font-family:
-    Inter,
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    Oxygen,
-    Ubuntu,
-    Cantarell,
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  font-size: 15px;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    Inter, /*Fuente PRincipal*/
+    -apple-system, /*Fuentes en sistemas Apple*/
+    BlinkMacSystemFont,/* Feutne en sistemas Mac*/
+    'Segoe UI', /*Fuente en Windows*/
+    Roboto,/*Fuente en Android*/
+    Oxygen, /*Fuente en KDE*/
+    Ubuntu, /*Fuente en Ubuntu*/
+    Cantarell, /*Fuente de GNOME */
+    'Fira Sans', /*Fuente alternativa*/
+    'Droid Sans', /*Fuentes en versiones antiguas de Android*/
+    'Helvetica Neue', /*Fuente en sistema iOS*/
+    sans-serif; /*Fuente predetermínada sans-serif*/
+  font-size: 15px; /*Establece el tamañao de la fuente*/
+  text-rendering: optimizeLegibility; /* Optimiza la legibilidad del texto*/
+  -webkit-font-smoothing: antialiased; /*Suaviza el texto en navegadores*/
+  -moz-osx-font-smoothing: grayscale; /*Suaviza el texto en macos*/
+}
+
+/* Quito los puntos de las etiquetas li */
+li {
+  list-style: none;
 }
