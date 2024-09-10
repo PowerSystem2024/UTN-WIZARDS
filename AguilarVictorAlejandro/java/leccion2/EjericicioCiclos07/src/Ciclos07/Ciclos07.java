@@ -1,4 +1,5 @@
 //Clase 4
+
 /*
 Ejercicio 7: Pedir números hasta que se introdusca uno negativo
 y calcular el promedio
