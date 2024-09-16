@@ -1,6 +1,7 @@
 # ⚠️ ADVERTENCIA ⚠️
 
 **Soy Rocío Gomila, mi legajo es #10534**
+
 **Este espacio es mío y solo mío. Si te atreves a tocar algo aquí, prepárate para las consecuencias... 🕵️‍♂️**
 
 ### ¿Qué pasa si te atreves a modificar mis archivos?
