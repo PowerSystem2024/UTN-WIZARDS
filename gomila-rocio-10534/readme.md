@@ -1,6 +1,7 @@
 # ⚠️ ADVERTENCIA ⚠️
 
-**Soy [Tu Nombre], alumno con legajo [123456].** Este espacio es mío y solo mío. Si te atreves a tocar algo aquí, prepárate para las consecuencias... 🕵️‍♂️
+**Soy Rocío Gomila, mi legajo es #10534**
+**Este espacio es mío y solo mío. Si te atreves a tocar algo aquí, prepárate para las consecuencias... 🕵️‍♂️**
 
 ### ¿Qué pasa si te atreves a modificar mis archivos?
 1. **El código se corromperá y no podrás salvarlo.** 💀
@@ -12,4 +13,4 @@ Son bienvenidos a inspeccionar, corregir, y hasta reírse si quieren. Pero si ve
 
 ---
 
-**Moral de la historia:** No metas mano donde no te llaman. Si lo haces, recuerda que yo advertí primero. 🔥
+**Moral de la historia:** No metas mano donde no te llaman. Si lo haces, recuerda que yo advertí primero.**🔥
