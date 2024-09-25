@@ -3,13 +3,13 @@ package Operaciones;
 public class PruebaAritmetica {
    public static void main(String[] args) {
        var a = 10; //Variables locales
-       int b = 7;
+       int b = 7; //Memoria stack
        miMetodo(); // Llamamos el metodo nuevo
        Aritmetica aritmetica1 = new Aritmetica();
        aritmetica1.a = 3;
        aritmetica1.b = 7;
        aritmetica1.sumarNumeros();
-       
+       //Para almacenar un objeto o los atributos se utiliza la memoria heap
        int resultado = aritmetica1.sumarConRetorno();
        System.out.println("resultado = " + resultado) ;
        
@@ -22,6 +22,8 @@ public class PruebaAritmetica {
        Aritmetica aritmetica2 = new Aritmetica(5, 8);
        System.out.println("aritmetica2 = " + aritmetica2.a);
        System.out.println("aritmetica2 = " + aritmetica2.b);
+       //aritmetica1 = null; nunca utiliza esto, no se debe hacer
+       //System.gc(); Metodo para limpiar residuos, es pesado, no utilizar
    }
    
    public static void miMetodo(){
