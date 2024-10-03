@@ -41,7 +41,20 @@ class Persona{
     String apellido;
     
     Persona(String nombre, String apellido){ //Constructor
+        super(); // Llamada al constructor de la clase Padre object
         this.nombre = nombre;
         this.apellido = apellido;
+        System.out.println("Objeto persona usando this: "+ this);
+    }
+}
+
+class Imprimir{
+    public Imprimir(){
+        super(); // El constructor de la clase padre, para resolver memoria
+    }
+    
+    public void imprimir (Persona persona){
+        System.out.println("Persona desde ka clase imprimir "+ persona);
+        System.out.println("Impresion del objeto actual (this): "+ this);
     }
 }
