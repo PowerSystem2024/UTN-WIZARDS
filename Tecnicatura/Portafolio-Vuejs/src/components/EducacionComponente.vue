@@ -1,4 +1,4 @@
-<!-- eslint-disable vue/multi-word-component-names -->
+
 <script setup>
 import { ref } from 'vue';
 const fechacolor = ref ([]);
