@@ -35,5 +35,17 @@ public class Aritmetica {
         return this.sumarConRetorno();
     }
     
+    //CLASE 6
+    //El constructor es un método especial
+    public Aritmetica (){ //Constructor 1
+        System.out.println("Se esta ejecuntando este constructor número uno");
+    }
+    //Estamos viendo l oque se llama sobrecarga de constructores
+    public Aritmetica (int a, int b){ //Constructor 2
+        this.a = a;
+        this.b = b;
+        System.out.println("Se esta ejecuntando este constructor número dos");
+    }
+    
     
 }
