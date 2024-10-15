@@ -8,7 +8,7 @@ package dominio;
  */
 public class Persona {
     //Atributos
-    private String nombre;
+    private String nombre; //String nombre no hace falta que pongamos private
     private double sueldo;
     private boolean eliminado;
     
