@@ -39,5 +39,12 @@ public class Persona {
         this.elimminado = elimminado;
     }
     
+    // CLASE 8
+    
+    public String toString(){ //Convierte en una cadena cada atributo
+        return "Persona [ nombre: "+this.nombre+
+                ", sueldo: "+this.sueldo+
+                ", eliminado: "+this.elimminado+" ]";
+    }
     
 }
