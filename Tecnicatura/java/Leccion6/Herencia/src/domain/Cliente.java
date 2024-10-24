@@ -20,7 +20,7 @@ public class Cliente extends Persona{
         this.fechaRegistro = fechaRegistro;
         this.vip = vip;
     }
- // Getter and Setter, eliminamos el set
+ // Getter and Setter, eliminamos el set dle idcliente
     public int getIdCliente() {
         return this.idCliente;
     }

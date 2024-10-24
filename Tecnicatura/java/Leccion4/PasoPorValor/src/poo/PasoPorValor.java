@@ -10,7 +10,7 @@ public class PasoPorValor {
         System.out.println("Valor = " + valorX);
     }
     
-    public static void cambioValor(int arg1){
+    public static void cambioValor(int arg1){ //Parametro por valor
         System.out.println("arg1 = " + arg1);
         arg1 = 15;
     }

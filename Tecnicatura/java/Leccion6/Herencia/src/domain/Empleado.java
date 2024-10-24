@@ -7,17 +7,20 @@ public class Empleado extends Persona { //la clase empleado es hija de la clase 
     private double sueldo;
     private static int contadorEmpleados; // Es para incrementar
     
-    //Constructor
-
-    public Empleado(String nombre, double sueldo) {
-        super (nombre);
-        this.idEmpleado = ++Empleado.contadorEmpleados;
+    //Constructores
+    //Clase 10: Agregamos un constructor vacio
+    public Empleado(){ //constructor 1
+        this.idEmpleado = ++Empleado.contadorEmpleados; //aqui se va ir generando el incremento de lo que son los objetos creados para idEmpleado
+    }
+    
+    public Empleado(String nombre, double sueldo) { //constructor 2
+        //super (nombre); //Comentamos por que ya no llamamos al constructura de la clase persona
+        //this.idEmpleado = ++Empleado.contadorEmpleados; //Manera visible que tiene que tener cuando estamos trabajando dentro del contexto static
+        this(); //Estamos llamando desde aqui al constructor vacio (llamar a un constructor interno)
+        this.nombre = nombre;
         this.sueldo = sueldo;
     }
 
-    public Empleado() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 
     public int getIdEmpleado() {
         return this.idEmpleado;

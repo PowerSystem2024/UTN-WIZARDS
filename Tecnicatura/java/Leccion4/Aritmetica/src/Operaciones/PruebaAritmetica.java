@@ -8,11 +8,11 @@ public class PruebaAritmetica {
         int b = 7; //MEmoria Stack
         miMetodo(); //Llamamos el metodo nuevo
         //Clase Aritmética: Creamos un objeto
-        Aritmetica aritmetica1 = new Aritmetica();
+        Aritmetica aritmetica1 = new Aritmetica(); //Llamando al constructor, lo que hace reserva espacio de memoria 
         aritmetica1.a = 3;
         aritmetica1.b = 7;
         aritmetica1.sumarNumeros();    
-        
+        //PAra almacenar un objeto o los atributos se utiliza la memoria heap
         //Clase Aritmética: Creamos un método, recorremos con Debbug
         int resultado = aritmetica1.sumarConRetorno(); //Para almacenar un objeto o los atributos se utiliza la menoria heap
         System.out.println("resultado = " + resultado);
@@ -24,7 +24,7 @@ public class PruebaAritmetica {
         // CLASE 6
         System.out.println("aritmetica1 a: "+aritmetica1.a);
         System.out.println("aritmetica1 b: "+aritmetica1.b);
-        
+        // Creamos otro objeto con el constructor 2
         Aritmetica aritmetica2 = new Aritmetica(5, 8); //Nuevo objeto que trabaja co nel constructor 2
         System.out.println("aritmentica2 = " + aritmetica2.a);
         System.out.println("aritmentica2 = " + aritmetica2.b);

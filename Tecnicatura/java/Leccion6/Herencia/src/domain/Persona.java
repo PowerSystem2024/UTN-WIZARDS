@@ -2,9 +2,9 @@
 
 package domain;
 
-
+//Todo lo que es private no se hereda a las clases hijas
 public class Persona {
-    protected String nombre;
+    protected String nombre; //El protected esta pensado para el concepto de herencia
     protected char genero;
     protected int edad;
     protected String direccion;

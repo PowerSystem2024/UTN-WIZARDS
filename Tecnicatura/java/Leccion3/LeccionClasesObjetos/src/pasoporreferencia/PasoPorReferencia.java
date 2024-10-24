@@ -15,7 +15,7 @@ public class PasoPorReferencia {
         Persona persona2 = new Persona();
         //Persona persona2 = null;
         persona2 = cambiarElValor(persona2);
-        System.out.println("El nuevo valor de objeto es: " + persona1.nombre);
+        System.out.println("El nuevo valor de objeto es: " + persona2.nombre);
     }
     
     //Paso por referencia
