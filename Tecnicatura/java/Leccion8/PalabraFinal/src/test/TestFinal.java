@@ -31,7 +31,8 @@ public class TestFinal {
         //persona1 = new Persona(); //No se puede asignar una nieva referencia
         persona1.setNombre("Ariel Betancud");
         System.out.println("persona1 nombre: "+persona1.getNombre());
-        
+        //Lo que se puede hacer es modificar el valor del atributo que lo acabamos de hacer
+        //palabra reservada final para COSNTATNES
         persona1.setNombre("Liliana");
         System.out.println("persona1 nombre: "+persona1.getNombre());
     }
