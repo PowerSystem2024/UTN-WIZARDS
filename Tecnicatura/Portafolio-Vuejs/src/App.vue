@@ -5,10 +5,11 @@ import Educacion from './components/EducacionComponente.vue';
 import ExperienciaComponente from './components/ExperienciaComponente.vue'
 import ProyectosComponente from './components/ProyectosComponente.vue';
 import HabilidadesComponente from './components/HabilidadesComponente.vue';
+import InteresesComponente from './components/InteresesComponente.vue';
 </script>
 
 <template>
-  <header>
+  <header id = "top">
     <!--Barra de Navegacion-->
     <NavBar />
     <!--Componentes Datos Personales-->
@@ -32,11 +33,24 @@ import HabilidadesComponente from './components/HabilidadesComponente.vue';
       <h2>Habilidades</h2>
       <HabilidadesComponente/>
     </section>
-    <section id="intereses"><h2>Intereses</h2></section>
+    <section id="intereses">
+      <h2>Intereses</h2>
+      <InteresesComponente/>
+    </section>
   </main>
+  <footer>
+    <a href="#top">Inicio</a>
+    <p>© 2024 Juan Perez - Portafolio web - tutorial UTN FRSR</p>
+  </footer>
 </template>
 
 <!--Le damos estilo-->
 <style scoped>
-
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    font-size: 1.3rem;
+}
 </style>
