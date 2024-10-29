@@ -8,10 +8,10 @@ package domain;
  */
 public class Persona {
     //Artibutos de herencia
-    private String nombre;
-    private char genero;
-    private int edad;
-    private String direccion;
+    protected String nombre;
+    protected char genero;
+    protected int edad;
+    protected String direccion;
     
     //Consteector vacia: este es para crear objetos sin necesidad de inicializar
     //los atributos de la clase
