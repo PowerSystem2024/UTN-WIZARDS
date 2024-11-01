@@ -1,4 +1,6 @@
 <script setup>
+import proyecto1 from "/src/assets/annidada-tech.jpeg";
+
 //Este componente muestra una galeria de proyectos con información sobre cada proyecto
 import { ref } from 'vue';
 //.ref es una función que se utiliza pra crear una referencia reactiva en vue 3
@@ -8,7 +10,7 @@ misProyectos.value = ([
     //esto es un array de objetos que contiene información sobre proyectos
     {
         id:1,
-        src: "/src/assets/annidada-tech.jpeg",
+        src: proyecto1,
         titulo: "Aplicacion de reservas para restaurantes (2024)",
         descripcion: "Cree una aplicacion móvil con flutter que permite a los usuarios reservar mesas en restaurantes locales",
         projectoLink: "https://www.google.com.ar",
@@ -16,7 +18,7 @@ misProyectos.value = ([
     },
     {
         id:2,
-        src: "/src/assets/annidada-tech.jpeg",
+        src: proyecto1,
         titulo: "Plataforma de E-learning (2024)",
         descripcion: "Diseñé y desarrolle una plataforma de educacion en línea utiliznado Django y React",
         projectoLink: "https://www.google.com.ar",
@@ -24,7 +26,7 @@ misProyectos.value = ([
     },
     {
         id:3,
-        src: "/src/assets/annidada-tech.jpeg",
+        src: proyecto1,
         titulo: "Blog Personal con CMS (2024)",
         descripcion: "Construí un blog personal con un sistema de gestión (CMS) personalizada en wordPress",
         projectoLink: "https://www.google.com.ar",
@@ -32,7 +34,7 @@ misProyectos.value = ([
     },
     {
         id:4,
-        src: "/src/assets/annidada-tech.jpeg",
+        src: proyecto1,
         titulo: "Aplicacion de reservas para restaurantes (2024)",
         descripcion: "Cree una aplicacion móvil con flutter que permite a los usuarios reservar mesas en restaurantes locales",
         projectoLink: "https://www.google.com.ar",
