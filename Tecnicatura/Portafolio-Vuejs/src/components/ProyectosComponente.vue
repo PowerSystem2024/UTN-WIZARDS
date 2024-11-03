@@ -8,6 +8,7 @@ var misProyectos = ref([]);
 //.value es una propiedad que se utiliza para acceder al valor de una referencia reactiva en vue 3
 misProyectos.value = ([
     //esto es un array de objetos que contiene información sobre proyectos
+    
     {
         id:1,
         src: proyecto1,
