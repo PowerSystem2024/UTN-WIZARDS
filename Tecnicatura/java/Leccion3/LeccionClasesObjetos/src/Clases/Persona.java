@@ -24,8 +24,8 @@ modificarOcupacion(ocupacion: String)
 */
 public class Persona {
     //Atributos de clase (Caracteristicas)
-    String nombre;
-    String apellido;
+    public String nombre;
+    public String apellido;
     
     //Clase 4
     //Es nuestra plantilla
