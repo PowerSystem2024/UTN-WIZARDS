@@ -21,6 +21,12 @@ public class testMatrices {
         System.out.println("edades 1-1 = " + edades [1] [1]);
         System.out.println("edades 2-0 = " + edades [2] [0]);
         System.out.println("edades 2-1 = " + edades [2] [1]);
+        System.out.println("Recorremos la matriz atraves de ciclo for");
+        for (int fila = 0; fila < edades.length; fila++) {
+            for (int col = 0; col < edades [fila] .length; col++) {
+                System.out.println("edades" +fila+" - "+col+": "+edades[fila][col]);
+            }            
+        }
     }
     
 }
