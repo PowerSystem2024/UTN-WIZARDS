@@ -15,6 +15,17 @@ public class TestArreglosObjetc {
         personas[1] = new Persona("Osvaldo");
         System.out.println("personas 0 = " + personas [0]);
         System.out.println("personas 1 = " + personas [1]);
+        
+        for(int i = 0; i < personas.length; i++ ){
+            System.out.println("personas "+i+" = "+ personas[i]);
     }
+        //trabajando con areglos en la sistanxis reumida
+        String frutas[] = {"Banana" , "Pera" , "Durazno"};
+        for (int i = 0; i < frutas.length; i++) {
+            System.out.println("frutas = " + i+ " = "+ frutas[i]);
+        }
+    
+    
+}
     
 }
