@@ -3,6 +3,8 @@
  */
 package test;
 
+import domain.Persona;
+
 
 public class testMatrices {
     public static void main(String[] args){
@@ -38,6 +40,14 @@ public class testMatrices {
                 System.out.println("edades "+i+"-"+j+": "+edades[i] [j]);
             }
         }
+        //Creamos una matriz de objetos
+        Persona personas[] [] = new Persona[2] [3];
+        //Siginamos valorre a la matriz
+        personas[0] [0] = new Persona("Ariel");
+        personas[0] [1] = new Persona("osvaldo");
+        personas[0] [0] = new Persona("Ariel");
+        
+        
     }
-    
+    public static void imprimir(object)
 }
