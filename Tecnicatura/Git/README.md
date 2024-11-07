@@ -16,7 +16,7 @@ New repository #Ponemos el nombre: class-git, descripción: Haremos un blog incr
 Create repository #Lo ponemos en privado o en Publico.
 ```
 
-El **_README.md_** es el archivo que veremos por defecto al entrar a un repositorio. _Es una muy buena práctica configurarlo para describir el proyecto, los requerimientos y las instrucciones que debemos seguir para contribuir correctamente._
+d El **_README.md_** es el archivo que veremos por defecto al entrar a un repositorio. _Es una muy buena práctica configurarlo para describir el proyecto, los requerimientos y las instrucciones que debemos seguir para contribuir correctamente._
 
 Para clonar un repositorio desde GitHub (o cualquier otro servidor remoto) debemos copiar la URL (por ahora, usando HTTPS) y ejecutar el comando git clone + la URL que acabamos de copiar. Esto descargará la versión de nuestro proyecto que se encuentra en GitHub.
 
