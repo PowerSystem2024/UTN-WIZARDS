@@ -18,21 +18,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BibliotecaTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FBibliotecaTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gusmr/OneDrive/Escritorio/TUP/Proyecto/Biblioteca_UTN_Wizards&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BibliotecaTest.executor": "Run",
+    "Application.FBibliotecaTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gusmr/OneDrive/Escritorio/TUP/Proyecto/Biblioteca_UTN_Wizards",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,9 +51,7 @@
       <updated>1730815777547</updated>
       <workItem from="1730815778611" duration="319000" />
       <workItem from="1730816111233" duration="151000" />
-      <workItem from="1730816283344" duration="7024000" />
-      <workItem from="1730848013935" duration="1178000" />
-      <workItem from="1730854633438" duration="2807000" />
+      <workItem from="1730816283344" duration="1848000" />
     </task>
     <servers />
   </component>
