@@ -61,11 +61,11 @@ public class BibliotecaTest {
                 }
             }
 
-            // Reiniciar sesión y usuario actual para el siguiente ciclo
+            // Reiniciar sesión y usuario actual para el siguiente ciclo.
             sesionIniciada = false;
             usuarioActual = null;
 
-            // Preguntar si desea salir o continuar
+            // Preguntar si desea salir o continuar.
             System.out.print("Escriba 'exit' para salir o presione Enter para continuar: ");
             scanner.nextLine(); // Limpiar el buffer
             String opcion = scanner.nextLine();
