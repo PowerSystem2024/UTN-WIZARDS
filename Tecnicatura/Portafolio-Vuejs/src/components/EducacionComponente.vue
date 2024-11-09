@@ -12,10 +12,10 @@ fechacolor.value= [
 const educacion = ref ([]);
 educacion.value = [
     {fecha: "2024", title: "Técnicatura Universitaria en Programacion", descripcion: "Decidimos formalmente instruirnos en la UTN-San Rafael para consolidar nuestras bases", enlace:"https://www.youtube.com/"},
-    {fecha: "2023", title:"Desarrolladores full Stack", descripcion:"Trabamos en un proyecto dedicado a reserva de turnos de una clínica donde en el back trabajamos con python. Djangom MySql para la base de datos y en el front con React", enlace: "http:www.direccion.com"},
+    {fecha: "2023", title:"Desarrolladores full Stack", descripcion:"Trabamos en un proyecto dedicado a reserva de turnos de una clínica", enlace: "http:www.direccion.com"},
     {fecha: "2022", title: "Gestion de tareas", descripcion: "Colaboramos en el frontend de un proyecto donde utilizamos HTML, CSS, JavaScripS Y Vue", enlace: "http:www.direccion.com"},
-    {fecha: "2021", title: "Curso HTML, CSS, JavaScript", descripcion: "Vimos las bases de HTML, CSS y JavaScript, luego practicamos implementando funcionalidades en distintos proyectos de prueba", enlace: "http:www.direccion.com"},
-    {fecha: "2020", title: "Curso de instruccion a la Programación", descripcion: "Completamos un curso en liena sobre fundamentos de programcion, donde aprendimos desde 0 con pseint", enlace: "http:www.direccion.com"}
+    {fecha: "2021", title: "Curso HTML, CSS, JavaScript", descripcion: "Vimos las bases de HTML, CSS y JavaScript", enlace: "http:www.direccion.com"},
+    {fecha: "2020", title: "Curso de instruccion a la Programación", descripcion: "Completamos un curso en liena sobre fundamentos de programcion", enlace: "http:www.direccion.com"}
 ]
 </script>
 
