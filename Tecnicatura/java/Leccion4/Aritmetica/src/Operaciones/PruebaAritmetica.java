@@ -43,7 +43,7 @@ public class PruebaAritmetica {
     }
 }
 
-//CALSE 7
+//CLASE 7
 // Creamos una nueva clase
 class Persona{
     String nombre;
