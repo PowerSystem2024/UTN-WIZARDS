@@ -42,7 +42,7 @@ import InteresesComponente from './components/InteresesComponente.vue';
   </main>
   <footer>
     <a href="#top">Inicio</a>
-    <p>© 2024 Juan Perez - Portafolio web - tutorial UTN FRSR</p>
+    <p>© 2024 Gustavo Rodriguez - Portafolio web - tutorial UTN FRSR</p>
   </footer>
 </template>
 
@@ -54,5 +54,9 @@ footer {
     align-items: center;
     padding: 2rem;
     font-size: 1.3rem;
+}
+h2 {
+    font-size: 2rem;
+    color:#FA95AF
 }
 </style>

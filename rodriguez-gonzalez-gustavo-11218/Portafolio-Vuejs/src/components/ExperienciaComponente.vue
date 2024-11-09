@@ -52,16 +52,16 @@ const experiencias = ref([
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    background-color: rgb(28, 41, 52);
+    background-color: #1F1F1F;
     border-radius: 15px;
 }
 .titulo{
     font-size: 1.5rem;
-    color: coral;
+    color: #FA95AF;
 }
 .fecha{
     font-size: 1rem;
-    color: burlywood;
+    color: #ffb4c7;
     margin-bottom: 1rem;
 }
 .listado{

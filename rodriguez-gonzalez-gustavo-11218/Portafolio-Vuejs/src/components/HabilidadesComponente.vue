@@ -4,33 +4,26 @@ import imagen2 from "/src/components/icons/python.svg";
 import imagen3 from "/src/components/icons/html-css.svg";
 import imagen4 from "/src/components/icons/java.svg";
 import imagen5 from "/src/components/icons/sql.svg";
-
 import imagen6 from "/src/components/icons/react.svg";
 import imagen7 from "/src/components/icons/vue.svg";
 import imagen8 from "/src/components/icons/node.svg";
 import imagen9 from "/src/components/icons/django.svg";
 import imagen10 from "/src/components/icons/bootstrap.svg";
-
 import imagen11 from "/src/components/icons/git.svg";
 import imagen12 from "/src/components/icons/docker.svg";
 import imagen13 from "/src/components/icons/cypress.svg";
 import imagen14 from "/src/components/icons/figma.svg";
 import imagen15 from "/src/components/icons/visual.svg";
-
 import imagen16 from "/src/components/icons/mongo.svg";
 import imagen17 from "/src/components/icons/mysql.svg";
 import imagen18 from "/src/components/icons/postgres.svg";
 import imagen19 from "/src/components/icons/arg.svg";
 import imagen20 from "/src/components/icons/eeuu.svg";
-
-//Se importa ref de vue para poder usarlo
 import { ref } from 'vue';
-//Se crea un array de objetos con las habilidades
-//Este es un array de objetos con habilidades que se pueden modificar o agregar
+
 const habilidades = ref([
-    {// Se crea un objeto con id, nombre y habilidades
+    {
         id: 1, nombre: 'Lenguajes de Programación', habilidades: [
-            //Se crea un objeto con id, nombre, nivel e icono
             { id: 1, nombre: 'JavaScript', nivel: 'Avanzado', icono: imagen1},
             { id: 2, nombre: 'Python', nivel: 'Intermedio', icono: imagen2},
             { id: 3, nombre: 'HTML/CSS', nivel: 'Avanzado', icono: imagen3},
@@ -73,149 +66,25 @@ const habilidades = ref([
 </script>
 
 <template>
-    <!--Este componente vue funciona de esta forma:-->
     <div class="skills-contenedor">
-        <!--Se recorre el array habilidades con v-for y se asigna la key habilidad.id-->
         <div v-for="habilidad in habilidades" :key="habilidad.id" class="skills-categoria">
-            <!--Se muestra el nombre de la habilidad-->
             <h3>{{ habilidad.nombre }}</h3>
             <ul class="skills">
-                <!--Se recorre el array habilidades con v-for y se asigna la key habilidad.id-->
                 <li v-for="habilidad in habilidad.habilidades" :key="habilidad.id" class="skill">
-                    <!--Se muestra el icono de la habilidad y el nombre de la habilidad con su nivel-->
                     <img :src="habilidad.icono" :alt="habilidad.nombre">
-                    <!--Se muestra el icono de la habilidad y el nombre de la habilidad con su nivel-->
                     <span>{{ habilidad.nombre }}: {{ habilidad.nivel }}</span>
                 </li>
             </ul>
         </div>
     </div>
-    <!-- <div class="skills-contenedor">
-        <div class="skills-categoria">
-            <h3>Lenguajes de Programación</h3>
-            <ul class="skills">
-                <li class="skill">
-                    <img src="/src/components/icons/js.svg" alt="JavaScript">
-                    <span>JavaScript: Avanzado</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/python.svg" alt="Python">
-                    <span>Python: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/html-css.svg" alt="HTML/CSS">
-                    <span>HTML/CSS: Avanzado</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/java.svg" alt="Java">
-                    <span>Java: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/sql.svg" alt="SQL">
-                    <span>SQL: Intermedio</span>
-                </li>
-            </ul>
-        </div>
-
-        <div class="skills-categoria">
-            <h3>Frameworks y Librerías</h3>
-            <ul class="skills">
-                <li class="skill">
-                    <img src="/src/components/icons/react.svg" alt="React.js">
-                    <span>React.js: Avanzado</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/vue.svg" alt="Vue.js">
-                    <span>Vue.js: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/node.svg" alt="Node.js">
-                    <span>Node.js: Avanzado</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/django.svg" alt="Django">
-                    <span>Django: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/bootstrap.svg" alt="Bootstrap">
-                    <span>Bootstrap: Avanzado</span>
-                </li>
-            </ul>
-        </div>
-
-        <div class="skills-categoria">
-            <h3>Herramientas y Software</h3>
-            <ul class="skills">
-                <li class="skill">
-                    <img src="/src/components/icons/git.svg" alt="Git">
-                    <span>Git: Avanzado</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/docker.svg" alt="Docker">
-                    <span>Docker: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/cypress.svg" alt="Cypress">
-                    <span>Cypress: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/figma.svg" alt="Figma">
-                    <span>Figma: Intermedio</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/visual.svg" alt="Visual Studio Code">
-                    <span>Visual Studio Code: Avanzado</span>
-                </li>
-            </ul>
-        </div>
-
-        <div class="skills-categoria">
-            <h3>Bases de Datos</h3>
-            <ul class="skills">
-                <div class="skill">
-                    <img src="/src/components/icons/mongo.svg" alt="MongoDB">
-                    <span>MongoDB: Avanzado</span>
-                </div>
-                <div class="skill">
-                    <img src="/src/components/icons/mysql.svg" alt="MySQL">
-                    <span>MySQL: Intermedio</span>
-                </div>
-                <div class="skill">
-                    <img src="/src/components/icons/postgres.svg" alt="PostgreSQL">
-                    <span>PostgreSQL: Intermedio</span>
-                </div>
-            </ul>
-        </div>
-
-        <div class="skills-categoria">
-            <h3>Idiomas</h3>
-            <ul class="skills">
-                <li class="skill">
-                    <img src="/src/components/icons/arg.svg" alt="Español">
-                    <span>Español: Nativo</span>
-                </li>
-                <li class="skill">
-                    <img src="/src/components/icons/eeuu.svg" alt="Inglés">
-                    <span>Inglés: Avanzado (C1)</span>
-                </li>
-            </ul>
-        </div>
-    </div> -->
 </template>
 
 <style scoped>
-
+/* Fondo sólido en lugar de degradado para el contenedor */
 .skills-contenedor {
     padding: 2rem;
-    /*Fondo cargado desde una imagen estatica en Assets*/
-    /* background-image: url('/src/assets/fondo-proyectos.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat; */
-    /*Fondo con gradiente*/
-    background: linear-gradient(-45deg, #021526, #03346E, #6EACDA, #E2E2B6);
-    /*Fondo con color solido*/
-    /* background-color: rgb(28, 41, 52); */
+    background-color: #1F1F1F; /* Color de fondo sólido */
+    border-radius: 12px; /* Bordes redondeados */
 }
 
 .skills-categoria {
@@ -227,8 +96,7 @@ const habilidades = ref([
     justify-content: left;
     margin-bottom: 10px;
     font-size: 1.5em;
-    color: aliceblue;
-    font-size: 1.5em;
+    color: #D4A5A5; /* Color pastel en el título */
     font-weight: bold;
 }
 
@@ -244,16 +112,18 @@ const habilidades = ref([
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: rgba(241, 245, 243, 0.856);
+    background-color: #333333; /* Fondo oscuro para los contenedores de habilidad */
     padding: 0.3em;
     border-radius: 8px;
-    box-shadow: 0px 4px 12px rgba(2, 151, 151, 0.963);
+    box-shadow: 0px 4px 12px rgba(212, 165, 165, 0.5); /* Sombra con color pastel */
     flex: 1 1 200px;
     max-width: 250px;
+    transition: background-color 0.3s ease;
 }
 
 .skill:hover {
-    background-color: rgba(2, 151, 151, 0.963);
+    background-color: #FA95AF; /* Color pastel en el hover */
+    color: white;
 }
 
 .skill img {
@@ -263,12 +133,11 @@ const habilidades = ref([
 
 .skill span {
     font-size: 1em;
-    color: #333;
+    color: #cccccc; /* Color gris claro para el texto */
 }
 
-.skill:hover {
-    font-size: 1.3em;
-    transition: 2s ease;
+.skill:hover span {
+    color: #ffffff; /* Color blanco para el texto al hacer hover */
 }
 
 @media (max-width: 768px) {

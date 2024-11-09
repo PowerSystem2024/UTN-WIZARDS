@@ -48,6 +48,7 @@ const intereses = ref([
     margin: 0 auto;
     max-width: 85%;
     padding: 1rem;
+    background-color: #ffb4c70c;
 }
 
 .contenedor-lista {
@@ -56,7 +57,6 @@ const intereses = ref([
     margin-bottom: .5rem;
     color: var(--vt-c-white-soft);
     font-size: 1.4rem;
-    text-shadow: 3px 3px 6px rgba(0, 0, 0, 1); /*sombra */
 }
 
 .item {
