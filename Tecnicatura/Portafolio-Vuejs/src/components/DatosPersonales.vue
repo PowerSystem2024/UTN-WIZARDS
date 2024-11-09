@@ -1,15 +1,20 @@
 <script setup>
-const title = "Juan Perez";
-const descripcion = "TEcnico Univercitario en programación - UTN";
-const residencia = "San rafael, Mendoza, Argentica";
-const presentacion = "Hola, Bienvenido a mi portafolio de proyectos. Soy un desarrollador web con experiencia en el desarrollo de palicaciones web y moviles"
-const redesSociales = [
-    {id: 1, name: "linkedin", src: "/src/assets/linkedin_icon.svg", url: "htpps://www.linkendin.com/in/jose-perez/"},
-    {id: 2, name: "Intagran", src: "/src/assets/instagram_icon.svg", url: "https://www.instragam.com/joseperez"},
-    {id: 3, name: "github", src: "/src/assets/github_icon.svg", url: ""},
-    {id: 4, name: "curriculum", src : "/src/assets/cv_resume_icon.svg", url: ""},
-];
-const telefono = "+54 9 2443-4326734"
+    import linkedin from "/src/assets/linkedin_icon.svg";
+    import instagram from "/src/assets/instagram_icon.svg";
+    import github from "/src/assets/github_icon.svg";
+    import cv from "/src/assets/cv_resume_icon.svg";
+
+    const title = "Axel Choque";
+    const descripcion = "Técnico Universitario en programación - UTN San Rafael";
+    const residencia = "San Rafael, Mendoza, Argentina";
+    const presentacion = "Hola, Bienvenido a mi portafolio de proyectos. Soy desarrollador web con experiencia en el desarrollo de aplicaciones web y móviles"
+    const redesSociales = [
+    {id: 1, name: "linkedin", src: linkedin, url: "https://www.linkedin.com/in/axel-choque/"},
+    {id: 2, name: "Instagram", src: instagram, url: ""},
+    {id: 3, name: "GitHub", src: github, url: "https://github.com/AxelCh94"},
+    {id: 4, name: "Curriculum vitae", src : cv, url: ""},
+    ];
+    const telefono = "+54 9 2604 224350"
 </script>
 
 <template>
