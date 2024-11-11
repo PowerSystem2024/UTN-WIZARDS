@@ -4,7 +4,7 @@ import { ref } from 'vue';
 const fechacolor = ref ([]);
 fechacolor.value= [
     {color: "#41516c"},
-    {color: "#FBCA3E"},
+    {color: "#707070"},
     {color: "#E24A68"},
     {color: "#1B5F8C"},
     {color: "#4CADAD"}
@@ -12,10 +12,8 @@ fechacolor.value= [
 const educacion = ref ([]);
 educacion.value = [
     {fecha: "2024", title: "Técnicatura Universitaria en Programacion", descripcion: "Incumbencias Profecionales: Operacion y programacion de computadoras, desarrollo de programa en distintos lenguajes, analisis y control de sistema informaticos", enlace:"https://www.youtube.com/"},
-    {fecha: "2023", title:"Desarrollador full Stack", descripcion:"Trabaje en XYZ tech, donde diseñe y desarrollé aplicaciones web completas utilizando tecnologías como nose.js, react y monngoDB", enlace: "http:www.direccion.com"},
-    {fecha: "2022", title: "Intership en Desarrollo web", descripcion: "Realice una pasantia en ABC solutions, contribuyendo en la creacion de interfaces de usuarios y optimizaciión de sitios web", enlace: "http:www.direccion.com"},
-    {fecha: "2021", title: "Proyecto personal - Aplicacion de Gestion de tareas", descripcion: "Desarrolle una aplicacion apra la gestión de tareas diarias usando HTML, CSS y JavaScript, implementando funcionalidades como lista de tareas y recordatorios", enlace: "http:www.direccion.com"},
-    {fecha: "2020", title: "Curso de instruccion a la Programación", descripcion: "Compelte u ncurso en liena sobre fundamentos de programcion, donde aprendí leanguajes como python y java", enlace: "http:www.direccion.com"}
+    {fecha: "2023", title:"Desarrollador full Stack", descripcion:"Trabaje en XYZ tech, donde diseñe y desarrollé aplicaciones web ", enlace: "http:www.direccion.com"},
+   
 ]
 </script>
 
@@ -32,6 +30,16 @@ educacion.value = [
 </template>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@400;700&display=swap');
+
+.fecha{
+    font-family: 'Doto', sans-serif;
+}
+.title{
+    font-family: 'Doto', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
 /*Estilos generales*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap");
 /*Reseteo de estilos basicos para todos los elementos y pseudo-elementos*/

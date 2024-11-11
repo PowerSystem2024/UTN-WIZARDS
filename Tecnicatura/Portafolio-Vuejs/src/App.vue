@@ -47,6 +47,7 @@ import InteresesComponente from './components/InteresesComponente.vue';
 <!--Le damos estilo-->
 <style scoped>
 footer {
+    font-family: 'Doto', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;

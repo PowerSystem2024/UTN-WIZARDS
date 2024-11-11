@@ -12,35 +12,13 @@ misProyectos.value = ([
     {
         id:1,
         src: proyecto1,
-        titulo: "Aplicacion de reservas para restaurantes (2024)",
-        descripcion: "Cree una aplicacion móvil con flutter que permite a los usuarios reservar mesas en restaurantes locales",
+        titulo: "Aplicacion de biblioteca digital",
+        descripcion: "Cree una aplicacion móvil con Java que permite a los usuarios consultar y solicitar prestamos",
         projectoLink: "https://www.google.com.ar",
-        githubLink: "https://github.com/usuario/proyecto"
+        githubLink: "https://github.com/PowerSystem2024/UTN-WIZARDS/tree/main/Tecnicatura/ProyectoMyne"
     },
-    {
-        id:2,
-        src: proyecto1,
-        titulo: "Plataforma de E-learning (2024)",
-        descripcion: "Diseñé y desarrolle una plataforma de educacion en línea utiliznado Django y React",
-        projectoLink: "https://www.google.com.ar",
-        githubLink: "https://github.com/usuario/proyecto"
-    },
-    {
-        id:3,
-        src: proyecto1,
-        titulo: "Blog Personal con CMS (2024)",
-        descripcion: "Construí un blog personal con un sistema de gestión (CMS) personalizada en wordPress",
-        projectoLink: "https://www.google.com.ar",
-        githubLink: "https://github.com/usuario/proyecto"
-    },
-    {
-        id:4,
-        src: proyecto1,
-        titulo: "Aplicacion de reservas para restaurantes (2024)",
-        descripcion: "Cree una aplicacion móvil con flutter que permite a los usuarios reservar mesas en restaurantes locales",
-        projectoLink: "https://www.google.com.ar",
-        githubLink: "https://github.com/usuario/proyecto"
-    },
+    
+    
 ])
 </script>
 
@@ -139,7 +117,7 @@ misProyectos.value = ([
     /* Centra los elementos hijos horizontalmente */
     justify-content: center;
     /* Aplica un fondo con un degradado de colores */
-    background: linear-gradient(-45deg, #021526, #03346E, #6EACDA, #E2E2B6);
+    background: linear-gradient(-45deg, #010911, #131920, #626669, #E2E2B6);
     /* Ajusta el tamaño del fondo para que cubra el área completa */
     background-size: 400% 400%;
     /* Aplica una animación al fondo que dura 15 segundos, tiene una transición suave y se repite infinitamente */
@@ -178,7 +156,7 @@ misProyectos.value = ([
     /* Oculta cualquier contenido que se desborde del contenedor */
     overflow: hidden;
     /* Establece un color de fondo claro para el proyecto */
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     /* Define el ancho máximo del proyecto en 222px */
     max-width: 222px;
     /* Hace que el contenedor se ajuste flexiblemente ocupando al menos 300px de ancho */
@@ -197,6 +175,10 @@ misProyectos.value = ([
 
 /* La clase 'proyecto-info' contiene la información del proyecto */
 .proyecto-info {
+    color: #000000;
+    font-family: 'Doto', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 900;
     /* Agrega un padding de 15px alrededor de la información */
     padding: 15px;
     /* Centra el texto dentro del contenedor */
@@ -210,17 +192,22 @@ misProyectos.value = ([
     /* Define el tamaño de la fuente a 1.3em (relativo al tamaño de fuente del contenedor) */
     font-size: 1.3em;
     /* Aplica un color gris oscuro (#333) al texto */
-    color: #333;
+    color: #000000;
+    font-size: 0.8rem;
+    font-weight: 900;
 }
 
 /* Estilo para los párrafos de los proyectos */
 .proyecto-info p {
+    color: #000000;
     /* Establece un margen superior e inferior de 10px */
     margin: 10px 0;
     /* Define el tamaño de la fuente a 1em (igual al tamaño de fuente base) */
     font-size: 1em;
     /* Aplica un color gris (#666) al texto */
-    color: #666;
+    color: #000000;
+    font-size: 0.8rem;
+    font-weight: 900;
 }
 
 /* La clase 'proyecto-links' organiza los enlaces y botones del proyecto */
@@ -233,12 +220,14 @@ misProyectos.value = ([
     gap: 10px;
     /* Agrega un margen superior de 10px */
     margin-top: 10px;
+    font-size: 0.8rem;
+    font-weight: 900;
 }
 
 /* Estilo para el botón 'Ver Más' dentro de la clase 'proyecto-links' */
 .proyecto-links .btn-ver-mas {
     /* Aplica un color de fondo azul (#007BFF) */
-    background-color: #007BFF;
+    background-color: #464242;
     /* Aplica un color de texto blanco */
     color: #fff;
     /* Agrega un padding de 10px en vertical y 15px en horizontal */
@@ -254,17 +243,20 @@ misProyectos.value = ([
 /* Estilo para cuando el botón 'Ver Más' es hover */
 .proyecto-links .btn-ver-mas:hover {
     /* Cambia el color de fondo a un azul más oscuro (#0056b3) */
-    background-color: #0056b3;
+    background-color: #332424;
 }
 
 /* Estilo para el enlace a GitHub dentro de la clase 'proyecto-links' */
 .proyecto-links .github-link {
     /* Aplica un color gris oscuro (#333) al texto */
-    color: #333;
+    color: #ff0000;
     /* Elimina el subrayado del texto */
     text-decoration: none;
     /* Establece el tamaño de fuente a 0.9em (un poco más pequeño que el tamaño base) */
     font-size: 0.9em;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    font-weight: 900;
 }
 
 /* Estilo para cuando el enlace a GitHub es hover */

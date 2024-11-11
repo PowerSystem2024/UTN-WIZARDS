@@ -23,12 +23,12 @@ const navegacion= ref([
 <style scoped>
 .navbar {
   background-color: var(--vt-c-indigo);
-  color: #fff;
+  color: #000000;
   padding: 0.5rem 1 rem;
   align-items: center;
 }
 .navbar-item {
-  color: #fff;
+  color: #0c0c0c;
   text-decoration: none;
   margin-right: 1rem;
 }
@@ -40,20 +40,23 @@ const navegacion= ref([
   list-style: none;
 }
 a {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #c8cc8d;
   border: 1px solid;
-  border-color: hsla(160, 100%, 37%, 0.2);
-  border-radius: 5px;
+  border-color: hsla(0, 0%, 0%, 0.534);
+  border-radius: 16px;
   /*Eliminar el subrayado de los enlaces y elmentos con clase "green" */
-  text-decoration: none;
+  font-family: 'Doto', sans-serif;
   /* Añade una transición suave para los cambios de estilo */
-  transition: 0.4s;
+  
   /* Añade padding alrededor del contenido */
-  padding: 5px;
+  padding: 9px;
 }
 
 a:hover {
   /* Cambia el color de fondo al pasar el mause sobre un enlace */
-  background-color: hsla(160, 100%, 37%, 0.2);
+  background-color: rgb(28, 41, 52);
 }
 
 @media (max-width: 768px) {

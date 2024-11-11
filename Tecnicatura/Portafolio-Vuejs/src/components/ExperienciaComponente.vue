@@ -52,19 +52,29 @@ const experiencias = ref([
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    background-color: rgb(28, 41, 52);
+    background-color: rgb(13, 13, 14);
     border-radius: 15px;
 }
 .titulo{
+    font-weight: 700;
+    font-family: 'Doto', sans-serif;
     font-size: 1.5rem;
     color: coral;
 }
 .fecha{
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: 'Doto', sans-serif;
     font-size: 1rem;
-    color: burlywood;
+    color: rgb(219, 190, 152);
     margin-bottom: 1rem;
 }
 .listado{
+    
+    font-weight: 900;
+    font-size: 1.0rem;
+    color: rgb(221, 184, 137);
+    font-family: 'Doto', sans-serif;
     display: flex;
     flex-direction: column;
 }

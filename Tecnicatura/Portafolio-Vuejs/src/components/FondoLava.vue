@@ -81,7 +81,7 @@ svg {
 
 a {
     text-decoration: none;
-    color: black;
+    color: rgb(112, 94, 94);
     margin-left: 1em;
 }
 

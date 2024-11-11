@@ -213,7 +213,7 @@ const habilidades = ref([
     background-position: center;
     background-repeat: no-repeat; */
     /*Fondo con gradiente*/
-    background: linear-gradient(-45deg, #021526, #03346E, #6EACDA, #E2E2B6);
+    background: linear-gradient(-45deg, #021526, #515458, #081922, #E2E2B6);
     /*Fondo con color solido*/
     /* background-color: rgb(28, 41, 52); */
 }
@@ -223,6 +223,7 @@ const habilidades = ref([
 }
 
 .skills-categoria h3 {
+    font-family: 'Doto', sans-serif;
     display: flex;
     justify-content: left;
     margin-bottom: 10px;
@@ -233,6 +234,8 @@ const habilidades = ref([
 }
 
 .skills {
+    color: rgb(146, 0, 0);
+    font-family: 'Doto', sans-serif;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
@@ -244,16 +247,16 @@ const habilidades = ref([
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: rgba(241, 245, 243, 0.856);
+    background-color: rgba(114, 124, 119, 0.856);
     padding: 0.3em;
     border-radius: 8px;
-    box-shadow: 0px 4px 12px rgba(2, 151, 151, 0.963);
+    box-shadow: 0px 4px 12px rgba(89, 121, 121, 0.963);
     flex: 1 1 200px;
     max-width: 250px;
 }
 
 .skill:hover {
-    background-color: rgba(2, 151, 151, 0.963);
+    background-color: rgba(224, 230, 230, 0.963);
 }
 
 .skill img {
@@ -262,8 +265,9 @@ const habilidades = ref([
 }
 
 .skill span {
+    font-weight: 700;
     font-size: 1em;
-    color: #333;
+    color: #000000;
 }
 
 .skill:hover {
